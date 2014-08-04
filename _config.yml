@@ -5,32 +5,32 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: GDG DevFest Season 2014
-email: lviv@gdg.org.ua
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "http://gdg-ukraine.github.io"
+title: DevFest Nordeste 2014
+email: contato@devfestne.com.br
+description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
+baseurl: "/devfest-2014"
+url: "http://devfestnordeste.github.io"
 permalink: /blog/:title
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Location block
-eventLocationName: "Conference Hall"
-eventLocationAddress: "22 Teatral'na St, Lviv"
+eventLocationName: "Aracaju, Sergipe"
+eventLocationAddress: "Aracaju, Sergipe"
 eventStartTime: "2014-10-18T10:00"
-eventStartTimeHumanReadable: "10:00"
+eventStartTimeHumanReadable: "08:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "-11.0014025,-37.1034679"
+mapCenterCoordinates: "-11.0014025,-37.1034679"
+mapMobileCenterCoordinates: "-11.0014025,-37.1034679"
 
 # Logistics Location Block
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-11.0014025,-37.1034679"
+logisticsMapMobileCenterCoordinates: "-11.0014025,-37.1034679"
 
 #Tweets feed
-twitterHashTag: "devfest"
+twitterHashTag: "devfestnordeste"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
