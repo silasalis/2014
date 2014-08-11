@@ -1,8 +1,7 @@
 <!-- Begin Top Section -->
-<section id="top-section-hero" style="background-image: url('{{ site.baseurl }}/img/hero.jpg');">
+<section id="top-section-hero" class="top-section-hero image-section" style="background-image: url('{{ site.baseurl }}/img/hero.jpg');">
 
     {% include navigation.html %}
-
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             <h1>GDG DevFest <span id="typeout-text"></span> 2014</h1>
@@ -12,7 +11,7 @@
             </span>
         </div>
     </div>
-    <a href="#about" class="explore">
+    <a href="#about" class="explore animated hidden fadeInDown">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
         </svg>
