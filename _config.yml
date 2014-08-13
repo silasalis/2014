@@ -15,15 +15,15 @@ googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Location block
-eventLocationName: "Aracaju, Sergipe"
-eventLocationAddress: "Aracaju, Sergipe"
+eventLocationName: "Radisson Hotel"
+eventLocationAddress: "Rua Dr. Bezerra de Menezes, 40 - Atalaia, Aracaju - SE"
 eventStartTime: "2014-10-18T10:00"
 eventStartTimeHumanReadable: "08:00"
 eventEndTime: "2014-10-18T20:00"
 eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "-11.0014025,-37.1034679"
-mapCenterCoordinates: "-11.0014025,-37.1034679"
-mapMobileCenterCoordinates: "-11.0014025,-37.1034679"
+eventPlaceCoordinates: "-10.976712,-37.040825,17"
+mapCenterCoordinates: "-10.976712,-37.040825,17"
+mapMobileCenterCoordinates: "-10.976712,-37.040825,17"
 
 # Logistics Location Block
 logisticsMapCenterCoordinates: "-11.0014025,-37.1034679"
@@ -49,7 +49,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "18 de Outubro 2014"
-typeoutTextValues: '"", "Aracajú", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
+typeoutTextValues: '"", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
 
 # About Event Block
 eventName: "GDG DevFest Nordeste"
