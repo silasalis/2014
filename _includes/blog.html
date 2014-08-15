@@ -2,7 +2,7 @@
 <section id="blog" class="blog">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
-            <h3>Latest news</h3>
+            <h3>Últimas Notícias</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
 
                 {% for post in site.posts %}
@@ -13,7 +13,7 @@
                         <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
                         <div class="post-header">
                             <div class="published pull-left">
-                                <span class="caption">Posted:</span>
+                                <span class="caption">Postado:</span>
                                 <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
                             </div>
                             <div class="share pull-right">
@@ -42,7 +42,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">Leia Mais</a></p>
                     </article>
 
                 {% endfor %} 
@@ -53,15 +53,15 @@
                 <div class="row">
                     <div class="pagination">
                         {% if paginator.previous_page %}
-                        <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+                        <a href="/page{{ paginator.previous_page }}" class="previous">Anterior</a>
                         {% else %}
-                        <span class="previous">Previous</span>
+                        <span class="previous">Anterior</span>
                         {% endif %}
-                        <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                        <span class="page-number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
                         {% if paginator.next_page %}
-                        <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+                        <a href="/page{{ paginator.next_page }}" class="next">Próximo</a>
                         {% else %}
-                        <span class="next ">Next</span>
+                        <span class="next ">Próximo</span>
                         {% endif %}
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                 {% endif %}
 
                 <div class="row text-center">
-                    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                    <p class="rss-subscribe">Inscreva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                     </p>
                 </div>
 

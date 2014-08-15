@@ -34,7 +34,7 @@ twitterHashTag: "devfestnordeste"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
@@ -49,22 +49,22 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
 eventDate: "18 de Outubro 2014"
-typeoutTextValues: '"", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
+typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
 
 # About Event Block
 eventName: "GDG DevFest Nordeste"
 
 # Team Block
-aboutUs: Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences.
+aboutUs: Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências.
 
 # Speakers List Block
 showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
-twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
-fbFollowUsUrl: "https://facebook.com/GDGLviv"
+gplusFollowUsUrl: "https://plus.google.com/u/0/+DevfestneBr/"
+twitterFollowUsUrl: "https://twitter.com/DevfestNE"
+fbFollowUsUrl: "https://www.facebook.com/DevFestNE"
 
 # Blog
 blogCommentsEnabled: true
