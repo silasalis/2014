@@ -6,12 +6,22 @@
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizadores</h4>
             {% for speaker in site.data.team %} {% if speaker.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
-                <div class="zoe-effect waves-element waves-block waves-light" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+                <div class="zoe-effect waves-element waves-block waves-light ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure style="background-image: url({{ site.baseurl | append: site.thumbnailsFolder | append: speaker.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
+                            {% if speaker.ribbon != null %}
+                                <ul class="ribbon-wrapper">
+                                    {% for ribbon in speaker.ribbon %}
+                                    <li class="{{ ribbon["abbr"] | downcase }}">
+                                        <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                        <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
@@ -31,7 +41,7 @@
             </div>
             {% endif %} {% endfor %}
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <!-- <div class="col-lg-10 col-lg-offset-1 text-center">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for speaker in site.data.team %} {% if speaker.subTeam != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
@@ -56,7 +66,7 @@
                 </div>
             </div>
             {% endif %} {% endfor %}
-        </div>
+        </div> -->
     </div>
 </section>
 <!-- End Team List -->
