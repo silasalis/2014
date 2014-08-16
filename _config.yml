@@ -1,4 +1,4 @@
-# Build settings
+﻿# Build settings
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: DevFest Nordeste 2014
 email: contato@devfestne.com.br
 description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
-baseurl: "/devfest-2014"
+baseurl: "/2014"
 url: "http://devfestnordeste.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"

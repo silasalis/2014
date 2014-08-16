@@ -1,4 +1,4 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+﻿# Forked from: Project Zeppelin / GDG DevFest 2014 site template
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
@@ -115,5 +115,3 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 
 ### Licence
 Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
-
-
