@@ -12,7 +12,7 @@ baseurl: "/devfest-2014"
 url: "http://devfestnordeste.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "devfestne.com.br"
 
 # Location block
 eventLocationName: "Radisson Hotel"
@@ -38,7 +38,7 @@ subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:contato@devfestne.com.br"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
@@ -68,4 +68,4 @@ fbFollowUsUrl: "https://www.facebook.com/DevFestNE"
 
 # Blog
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestnordeste"

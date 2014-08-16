@@ -1,5 +1,5 @@
 -
-  group: 'Patrocinador Master'
+  group: 'Patrocinador Diamante'
   elements:
     - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg'}
 # -

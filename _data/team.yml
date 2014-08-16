@@ -45,7 +45,7 @@
   thumbnailUrl: ErickMendonca.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "GDG Aracajú"}
+    - {abbr: "GDG", title: "GDG Aracaju"}
   social:
     - {name: "google-plus", link: "https://google.com/+ErickMendonca"}
     - {name: "twitter", link: "https://twitter.com/erickmagnus"}
@@ -59,7 +59,7 @@
   thumbnailUrl: EulerNeto.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "GDG Aracajú"}
+    - {abbr: "GDG", title: "GDG Aracaju"}
   social:
     - {name: "google-plus", link: "https://google.com/+EulerNetoNgt"}
     - {name: "twitter", link: "https://twitter.com/netonightmare"}
@@ -128,7 +128,7 @@
   thumbnailUrl: RobertoBrandini.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "GDG Aracajú"}
+    - {abbr: "GDG", title: "GDG Aracaju"}
   social:
     - {name: "google-plus", link: "https://google.com/+RobertoBrandini"}
     - {name: "twitter", link: "https://twitter.com/RobertoBrandini"}

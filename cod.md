@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: A regra "não seja um idiota"
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Essa regra "Não seja um idiota" é uma versão mais breve e casual do Código de Conduta maior. [Leia a versão completa](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+Google Developer Groups se orgulham de serem uma comunidade aberta, respeitosa e inclusiva. Isto significa que comportamentos inadequados não são permitidos em eventos GDG. Sabemos que isto não é óbvio a todos, então aqui está um lembrete de coisas que não permitimos: piadas ou comentários ofensivos sobre sexo/sexualidade/raça/religião/nacionalidade/tamanho corporal, demonstrações pornográficas em público, tocar em pessoas sem permissão ou continuar interagindo com alguém que já tenha lhe pedido para parar. Comportamento inadequando contínuo pode resultar em ser expulso de um evento ou capítulo do GDG.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Se alguém está te incomodando, por favor informe aos Organizadores do GDG imediatamente e eles tomarão as ações necessárias. Nós desejamos manter os GDG DevFests fantásticos.
 
 
-######Contacts:
+######Contatos:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- DevFest Nordeste, [contato@devfestne.com.br](mailto:contato@devfestne.com.br)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
