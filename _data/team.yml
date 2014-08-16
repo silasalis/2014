@@ -1,60 +1,172 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Bianca"
+  surname: "Ximendes"
+  title: ""
+  thumbnailUrl: BiancaXimendes.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
+  ribbon:
+    - {abbr: "GDG", title: "GDG Recife"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
+-
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Daniel"
+  surname: "Castro"
+  title: ""
+  thumbnailUrl: DanielCastro.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  ribbon:
+    - {abbr: "GDG", title: "GDG Fortaleza"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DanielCastro23/"}
+    - {name: "twitter", link: "https://twitter.com/dancasttro"}
+    - {name: "github", link: "https://github.com/dancasttro"}
+    - {name: "site", link: "http://dancasttro.github.io"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Elias"
+  surname: "de Oliveira"
+  title: ""
+  thumbnailUrl: EliasdeOliveira.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  ribbon:
+    - {abbr: "GDG", title: "GDG Fortaleza"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EliasDeOliveirafaeliaso/"}
+    - {name: "twitter", link: "https://twitter.com/faeliaso"}
+    - {name: "github", link: "https://github.com/faeliaso"}
+    - {name: "site", link: "http://eliasdeoliveira.com/"}
+-
+  id: 3
+  name: "Erick"
+  surname: "Mendonça"
+  title: ""
+  thumbnailUrl: ErickMendonca.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracajú"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ErickMendonca"}
+    - {name: "twitter", link: "https://twitter.com/erickmagnus"}
+    - {name: "github", link: "https://github.com/erickmendonca"}
+    - {name: "site", link: "http://erickmendonca.com.br/"}
+-
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Euler"
+  surname: "Neto"
+  title: ""
+  thumbnailUrl: EulerNeto.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracajú"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+EulerNetoNgt"}
+    - {name: "twitter", link: "https://twitter.com/netonightmare"}
+    - {name: "github", link: "https://github.com/netoeuler"}
+    - {name: "site", link: "http://anarcomputero.wordpress.com/"}
+-
+  id: 5
+  name: "Gustavo"
+  surname: "Costa"
+  title: ""
+  thumbnailUrl: gustavocostaw.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Maceió"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
+    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
+    - {name: "github", link: "https://github.com/GustavoCostaW"}
+-
+  id: 6
+  name: "Ivan"
+  surname: "Santos"
+  title: ""
+  thumbnailUrl: IvanSantos.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Maceió"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
+    - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
+    - {name: "github", link: "https://github.com/pragmaticivan"}
+    - {name: "site", link: "http://ivansjr.com.br/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Joselito"
+  surname: "Júnior"
+  title: ""
+  thumbnailUrl: joselito.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Recife"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+JoselitoJúnior"}
+    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
+    - {name: "github", link: "https://github.com/joselitojunior1"}
+    - {name: "site", link: "http://www.joselitojunior.com"}
+-
+  id: 8
+  name: "Juarez"
+  surname: "P. A. Filho"
+  title: ""
+  thumbnailUrl: JuarezFilho.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Maceió"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+JuarezPAFilho"}
+    - {name: "twitter", link: "https://twitter.com/juarezpaf"}
+    - {name: "github", link: "https://github.com/juarezpaf"}
+    - {name: "site", link: "http://caravanaweb.com.br"}
+-
+  id: 9
+  name: "Roberto"
+  surname: "Brandini"
+  title: ""
+  thumbnailUrl: RobertoBrandini.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracajú"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+RobertoBrandini"}
+    - {name: "twitter", link: "https://twitter.com/RobertoBrandini"}
+    - {name: "github", link: "https://github.com/RobertoBrandini"}
+    - {name: "site", link: "http://robertobrandini.wordpress.com/"}
+-
+  id: 10
+  name: "Rodrigo"
+  surname: "Amaral"
+  title: ""
+  thumbnailUrl: RodrigoAmaral.jpg
+  team: true
+  ribbon:
+    - {abbr: "PUG-SE", title: "PUG Sergipe"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+RodrigoAmaral"}
+    - {name: "twitter", link: "https://twitter.com/rodrigoamaral"}
+    - {name: "github", link: "https://github.com/rodrigoamaral"}
+    - {name: "site", link: "http://rodrigoamaral.net"}
+-
+  id: 11
+  name: "Silas"
+  surname: "Limeira"
+  title: ""
+  thumbnailUrl: SilasLimeira.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG João Pessoa"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+SILASMONTEIRO"}
+    - {name: "twitter", link: "https://twitter.com/silasid"}
+    - {name: "github", link: "https://github.com/silasalis"}
+    - {name: "site", link: "http://silaslimeira.com/"}
+
+
+
+
+
+
+
+

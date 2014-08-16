@@ -31,7 +31,7 @@ logisticsMapMobileCenterCoordinates: "-11.0014025,-37.1034679"
 
 #Tweets feed
 twitterHashTag: "devfestnordeste"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
@@ -41,7 +41,7 @@ c4pUrl: "http://bit.ly/dfua-c4p"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,7 +55,7 @@ typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Rec
 eventName: "GDG DevFest Nordeste"
 
 # Team Block
-aboutUs: Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências.
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
 
 # Speakers List Block
 showSessions: true
