@@ -38,7 +38,7 @@ subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:contato@devfestne.com.br"
+c4sponsorsUrl: "/blog/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
