@@ -1,4 +1,4 @@
--
+﻿-
   id: 0
   name: "Bianca"
   surname: "Ximendes"
@@ -17,7 +17,7 @@
   thumbnailUrl: BrenoMoura.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "GDG Aracajú"}
+    - {abbr: "GDG", title: "GDG Aracaju"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
     - {name: "twitter", link: "https://twitter.com/basmoura"}
