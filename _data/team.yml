@@ -11,6 +11,19 @@
     - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
 -
   id: 1
+  name: "Breno"
+  surname: "Moura"
+  title: ""
+  thumbnailUrl: BrenoMoura.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracajú"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
+    - {name: "twitter", link: "https://twitter.com/basmoura"}
+    - {name: "github", link: "https://github.com/basmoura"}
+-
+  id: 2
   name: "Daniel"
   surname: "Castro"
   title: ""
@@ -24,7 +37,7 @@
     - {name: "github", link: "https://github.com/dancasttro"}
     - {name: "site", link: "http://dancasttro.github.io"}
 -
-  id: 2
+  id: 3
   name: "Elias"
   surname: "de Oliveira"
   title: ""
@@ -38,7 +51,7 @@
     - {name: "github", link: "https://github.com/faeliaso"}
     - {name: "site", link: "http://eliasdeoliveira.com/"}
 -
-  id: 3
+  id: 4
   name: "Erick"
   surname: "Mendonça"
   title: ""
@@ -52,7 +65,7 @@
     - {name: "github", link: "https://github.com/erickmendonca"}
     - {name: "site", link: "http://erickmendonca.com.br/"}
 -
-  id: 4
+  id: 5
   name: "Euler"
   surname: "Neto"
   title: ""
@@ -66,7 +79,7 @@
     - {name: "github", link: "https://github.com/netoeuler"}
     - {name: "site", link: "http://anarcomputero.wordpress.com/"}
 -
-  id: 5
+  id: 6
   name: "Gustavo"
   surname: "Costa"
   title: ""
@@ -79,7 +92,7 @@
     - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
     - {name: "github", link: "https://github.com/GustavoCostaW"}
 -
-  id: 6
+  id: 7
   name: "Ivan"
   surname: "Santos"
   title: ""
@@ -93,7 +106,21 @@
     - {name: "github", link: "https://github.com/pragmaticivan"}
     - {name: "site", link: "http://ivansjr.com.br/"}
 -
-  id: 7
+  id: 8
+  name: "Jacques"
+  surname: "Belmont"
+  title: ""
+  thumbnailUrl: JacquesBelmont.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG João Pessoa"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+jacquesbelmont"}
+    - {name: "twitter", link: "https://twitter.com/jacques_belmont"}
+    - {name: "github", link: "https://github.com/icejack"}
+    - {name: "site", link: "http://www.jacquesbelmont.com"}
+-
+  id: 9
   name: "Joselito"
   surname: "Júnior"
   title: ""
@@ -107,7 +134,7 @@
     - {name: "github", link: "https://github.com/joselitojunior1"}
     - {name: "site", link: "http://www.joselitojunior.com"}
 -
-  id: 8
+  id: 10
   name: "Juarez"
   surname: "P. A. Filho"
   title: ""
@@ -121,7 +148,7 @@
     - {name: "github", link: "https://github.com/juarezpaf"}
     - {name: "site", link: "http://caravanaweb.com.br"}
 -
-  id: 9
+  id: 11
   name: "Roberto"
   surname: "Brandini"
   title: ""
@@ -135,7 +162,7 @@
     - {name: "github", link: "https://github.com/RobertoBrandini"}
     - {name: "site", link: "http://robertobrandini.wordpress.com/"}
 -
-  id: 10
+  id: 12
   name: "Rodrigo"
   surname: "Amaral"
   title: ""
@@ -149,7 +176,7 @@
     - {name: "github", link: "https://github.com/rodrigoamaral"}
     - {name: "site", link: "http://rodrigoamaral.net"}
 -
-  id: 11
+  id: 13
   name: "Silas"
   surname: "Limeira"
   title: ""
