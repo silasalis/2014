@@ -1,27 +1,27 @@
-﻿-
-  id: 0
-  name: "Bianca"
-  surname: "Ximendes"
-  title: ""
-  thumbnailUrl: BiancaXimendes.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Recife"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
+﻿#-
+#  id: 0
+#  name: "Bianca"
+#  surname: "Ximendes"
+#  title: ""
+#  thumbnailUrl: BiancaXimendes.jpg
+#  team: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Recife"}
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
 -
-  id: 1
-  name: "Breno"
-  surname: "Moura"
-  title: ""
-  thumbnailUrl: BrenoMoura.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Aracaju"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
-    - {name: "twitter", link: "https://twitter.com/basmoura"}
-    - {name: "github", link: "https://github.com/basmoura"}
+#  id: 1
+#  name: "Breno"
+#  surname: "Moura"
+#  title: ""
+#  thumbnailUrl: BrenoMoura.jpg
+#  team: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Aracaju"}
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
+#    - {name: "twitter", link: "https://twitter.com/basmoura"}
+#    - {name: "github", link: "https://github.com/basmoura"}
 -
   id: 2
   name: "Daniel"
@@ -78,33 +78,33 @@
     - {name: "twitter", link: "https://twitter.com/netonightmare"}
     - {name: "github", link: "https://github.com/netoeuler"}
     - {name: "site", link: "http://anarcomputero.wordpress.com/"}
--
-  id: 6
-  name: "Gustavo"
-  surname: "Costa"
-  title: ""
-  thumbnailUrl: gustavocostaw.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Maceió"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
-    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
-    - {name: "github", link: "https://github.com/GustavoCostaW"}
--
-  id: 7
-  name: "Ivan"
-  surname: "Santos"
-  title: ""
-  thumbnailUrl: IvanSantos.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Maceió"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
-    - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
-    - {name: "github", link: "https://github.com/pragmaticivan"}
-    - {name: "site", link: "http://ivansjr.com.br/"}
+#-
+#  id: 6
+#  name: "Gustavo"
+#  surname: "Costa"
+#  title: ""
+#  thumbnailUrl: gustavocostaw.jpg
+#  team: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Maceió"}
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
+#    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
+#    - {name: "github", link: "https://github.com/GustavoCostaW"}
+#-
+#  id: 7
+#  name: "Ivan"
+#  surname: "Santos"
+#  title: ""
+#  thumbnailUrl: IvanSantos.jpg
+#  team: true
+#  ribbon:
+#    - {abbr: "GDG", title: "GDG Maceió"}
+#  social:
+#    - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
+#    - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
+#    - {name: "github", link: "https://github.com/pragmaticivan"}
+#    - {name: "site", link: "http://ivansjr.com.br/"}
 -
   id: 8
   name: "Jacques"
